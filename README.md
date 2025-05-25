@@ -14,6 +14,15 @@ I pride myself in creating cross-platform, full-stack applications. I am versed 
 
 [![My Skills](https://skillicons.dev/icons?i=java,npm,p5js,gradle,docker)](https://skillicons.dev)
 
+[![Icon of Andreas](https://test-1256.github.io/Andreas/icons/icon-512.png)
+
+
+
+
+
+
+
+
 - **[Java](https://java.sun.com)** My environment that can run apps
 - **[npm](https://www.npmjs.com/)** My JavaScript Package Manager for installing JavaScript Packages like Stuart's JSZip and Apache's Cordova
 - **[p5.js](https://www.p5js.org/)** My friendly tool for learning to code and make art. It is a free and open-source JavaScript library built by an inclusive
